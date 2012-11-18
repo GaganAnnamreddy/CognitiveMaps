@@ -1,0 +1,7 @@
+org.slc.sli.api.client
+org.slc.sli.api.client.constants
+org.slc.sli.api.client.constants.v1
+org.slc.sli.api.client.impl
+org.slc.sli.api.client.impl.transform
+org.slc.sli.api.client.security
+org.slc.sli.api.client.util
